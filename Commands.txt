@@ -1,0 +1,2 @@
+sudo systemctl enable rc-local.service
+sudo nano /etc/rc.local
